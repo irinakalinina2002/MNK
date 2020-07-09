@@ -1,0 +1,11 @@
+C:\ПМИ-119\MNK\MNK\bin\Debug\netcoreapp3.1\MNK.exe
+C:\ПМИ-119\MNK\MNK\bin\Debug\netcoreapp3.1\MNK.deps.json
+C:\ПМИ-119\MNK\MNK\bin\Debug\netcoreapp3.1\MNK.runtimeconfig.json
+C:\ПМИ-119\MNK\MNK\bin\Debug\netcoreapp3.1\MNK.runtimeconfig.dev.json
+C:\ПМИ-119\MNK\MNK\bin\Debug\netcoreapp3.1\MNK.dll
+C:\ПМИ-119\MNK\MNK\bin\Debug\netcoreapp3.1\MNK.pdb
+C:\ПМИ-119\MNK\MNK\obj\Debug\netcoreapp3.1\MNK.csprojAssemblyReference.cache
+C:\ПМИ-119\MNK\MNK\obj\Debug\netcoreapp3.1\MNK.AssemblyInfoInputs.cache
+C:\ПМИ-119\MNK\MNK\obj\Debug\netcoreapp3.1\MNK.AssemblyInfo.cs
+C:\ПМИ-119\MNK\MNK\obj\Debug\netcoreapp3.1\MNK.dll
+C:\ПМИ-119\MNK\MNK\obj\Debug\netcoreapp3.1\MNK.pdb
